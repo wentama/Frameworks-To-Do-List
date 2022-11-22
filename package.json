@@ -1,0 +1,35 @@
+{
+  "name": "react",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@babel/core": "7.20.2",
+    "@emotion/react": "11.10.5",
+    "@emotion/styled": "11.10.5",
+    "@fortawesome/fontawesome-svg-core": "6.2.1",
+    "@fortawesome/free-solid-svg-icons": "6.2.1",
+    "@fortawesome/react-fontawesome": "0.2.0",
+    "@mui/lab": "5.0.0-alpha.106",
+    "@mui/material": "5.10.12",
+    "@types/react": "18.0.24",
+    "fbjs": "0.2.1",
+    "material-ui": "0.12.2",
+    "moment": "2.29.4",
+    "prop-types": "^15.6.0",
+    "react": "18.2.0",
+    "react-bootstrap": "2.5.0",
+    "react-dom": "18.1.0",
+    "react-nextjs-toast": "^1.2.5",
+    "react-tap-event-plugin": "0.1.8",
+    "styled-jsx": "^3.3.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
